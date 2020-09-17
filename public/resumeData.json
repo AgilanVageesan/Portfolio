@@ -1,0 +1,115 @@
+{
+  "main": {
+    "name": "Agilan Vageesan",
+    "occupation": "Software Developer at Société Générale",
+    "description": "Full Stack Software Developer by Day, Freelancer by Night.",
+    "image": "Agilan.jpeg",
+    "bio": "My name is Agilan, I'm a Full Stack .Net Developer. Currently I'm working at Societe Generale Global Solution Center. ",
+    "contactmessage": "Get in touch with me to get further details about me.",
+    "email": "agilanvageesan@gmail.com",
+    "phone": "9944014313",
+    "address": {
+      "street": "C-401,Princeton Apartments,Manipal County Road,Singasandra",
+      "city": "Bangalore",
+      "state": "Karnata",
+      "zip": "560068"
+    },
+    "website": "https://in.linkedin.com/in/agilan-vageesan-b6a12a1b1",
+    "resumedownload": "https://drive.google.com/uc?export=download&id=1Qi9y4q81MvRDk_scWqzzwwJ8w2Z8wZP2",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/Agilanb4u",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://in.linkedin.com/in/agilan-vageesan-b6a12a1b1",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/agilan.ajax",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/AgilanVageesan",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "i have worked on SQL DB performance tunning , .Net core API's ...",
+    "education": [
+      {
+        "school": "Rajiv Gandhi College of Engineering and Technology",
+        "degree": "Bachelor of Technology Specialized in Electronics and Communications",
+        "graduated": "May 2018",
+        "description": "Graduated with Distinction"
+      },
+      {
+        "school": "Alliance française de Pondichéry",
+        "degree": "The Diplôme d'études en langue française A2 & B1",
+        "graduated": "May 2016",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Societe Generale Global Solution Center",
+        "title": "Software Developer",
+        "years": "June 2018 - Present",
+        "description": "Full stack Development in .Net"
+      }
+    ],
+    "skills": [
+      {
+        "name": ".Net/.Net Core",
+        "level": "85%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "SQL",
+        "level": "75%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "React JS",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Server Manager VS Extension",
+        "category": "Visual sutdio extension to instantly change connection strings",
+        "image": "https://raw.githubusercontent.com/rchouhan170590/ServerManager/master/Media/screen2.jpg",
+        "url": "https://github.com/AgilanVageesan/Server-Manager-VS-Extenstion"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Good Team Player",
+        "user": "Ajax"
+      },
+      {
+        "text": "Clever Developer",
+        "user": "Rio"
+      }
+    ]
+  }
+}
