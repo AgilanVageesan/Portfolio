@@ -4,7 +4,7 @@
     "occupation": "Software Developer at Société Générale",
     "description": "Full Stack Software Developer by Day, Freelancer by Night.",
     "image": "Agilan.jpeg",
-    "bio": "My name is Agilan, I'm a Full Stack .Net Developer. Currently I'm working at Societe Generale Global Solution Center. ",
+    "bio": "Experienced Software Engineer with a demonstrated history of working in the information technology and services industry. Skilled in .Net Framework/.Net Core Full-Stack Development, SQL Server Reporting Services (SSRS), C#, Angular, Javascript, and TeamCity. Strong engineering professional with a Bachelor of Technology - BTech focused in Electrical, Electronics, and Communications Engineering.",
     "contactmessage": "Get in touch with me to get further details about me.",
     "email": "agilanvageesan@gmail.com",
     "phone": "9944014313",
@@ -15,7 +15,7 @@
       "zip": "560068"
     },
     "website": "https://in.linkedin.com/in/agilan-vageesan-b6a12a1b1",
-    "resumedownload": "https://drive.google.com/uc?export=download&id=1Qi9y4q81MvRDk_scWqzzwwJ8w2Z8wZP2",
+    "resumedownload": "https://drive.google.com/file/d/1FMJu8fYAyznHK7agVgmXphPqwBV3zeie/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -40,7 +40,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "i have worked on SQL DB performance tunning , .Net core API's ...",
+    "skillmessage": "Close to 3.5 years of developer experience in working on Microsoft Tools and Technologies",
     "education": [
       {
         "school": "Rajiv Gandhi College of Engineering and Technology",
@@ -58,7 +58,7 @@
     "work": [
       {
         "company": "Societe Generale Global Solution Center",
-        "title": "Software Developer",
+        "title": "Senior Software Developer",
         "years": "June 2018 - Present",
         "description": "Full stack Development in .Net"
       }
@@ -67,6 +67,10 @@
       {
         "name": ".Net/.Net Core",
         "level": "85%"
+      },
+      {
+        "name": "Angular",
+        "level": "70%"
       },
       {
         "name": "CSS",
@@ -85,27 +89,25 @@
         "level": "80%"
       },
       {
-        "name": "React JS",
-        "level": "50%"
+        "name": "DevOps",
+        "level": "80%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Server Manager VS Extension",
-        "category": "Visual sutdio extension to instantly change connection strings",
-        "image": "https://raw.githubusercontent.com/rchouhan170590/ServerManager/master/Media/screen2.jpg",
-        "url": "https://github.com/AgilanVageesan/Server-Manager-VS-Extenstion"
+        "title": "Retro App",
+        "category": "Retro app is built on angular for Agile Retro meetings",
+        "image": "RetroApp.jpg",
+        "url": "https://retro.agilanvageesan.net/"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Agilan, a humble young grad, comes from a city of natural beaches, beautiful hotels, pubs, and bars with his funny yet beautiful french.
-        In just two years, I have seen him transforming closely from a newbie to a true craftsman. Of course, the most challenging part was he not being from a computer science background. But I guess it didn't bother him because of his child-like curiosity and innocence, making him a swift learner. When it comes to ownership and accountability, he sees the task reaches a logical conclusion. His experience does not stop him from asking anyone or pointing out if someone is cutting the corner, even when that person is his boss or boos' boss. Every repetition is an opportunity for automation is his mantra, and he truly lives by that. He has automated so many tasks in his team.
-        To summarise, a jolly friend, the go-to person when in need, Mr. Dependable for almost anything, always ready to learn and seek feedback from anybody is Agilan for me",
+        "text": " Agilan , a humble young grad, comes from a city of natural beaches, beautiful hotels, pubs, and bars with his funny yet beautiful french. In just two years, I have seen him transforming closely from a newbie to a true craftsman. Of course, the most challenging part was he not being from a computer science background. But I guess it didn't bother him because of his child-like curiosity and innocence, making him a swift learner. When it comes to ownership and accountability, he sees the task reaches a logical conclusion. His experience does not stop him from asking anyone or pointing out if someone is cutting the corner, even when that person is his boss or boos' boss. Every repetition is an opportunity for automation is his mantra, and he truly lives by that. He has automated so many tasks in his team.To summarise, a jolly friend, the go-to person when in need, Mr. Dependable for almost anything, always ready to learn and seek feedback from anybody is Agilan for me.",
         "user": "Bharat Mane"
       },
       {
@@ -115,3 +117,4 @@
     ]
   }
 }
+
