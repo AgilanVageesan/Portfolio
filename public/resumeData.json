@@ -101,6 +101,60 @@
         "category": "Retro app is built on angular for Agile Retro meetings",
         "image": "RetroApp.jpg",
         "url": "https://retro.agilanvageesan.net/"
+      },
+      {
+        "title": "Todo App",
+        "category": "Todo app to maintain daily tasks",
+        "image": "Todo.jpg",
+        "url": "https://todo.agilanvageesan.net/"
+      },
+      {
+        "title": "Tabeau App",
+        "category": "Collection of dashboards built on AgGrid,Material UI",
+        "image": "Tableau.jpg",
+        "url": "https://dashboard.agilanvageesan.net/"
+      },
+      {
+        "title": "Covid Dashboard App",
+        "category": "Covid Dashboard built on react",
+        "image": "CovidDashboard.jpg",
+        "url": "https://covid.agilanvageesan.net/"
+      },
+      {
+        "title": "Project Manager App",
+        "category": "Project Management app built on Angular",
+        "image": "ProjectManager.jpg",
+        "url": "https://projectmanagerapp.netlify.app/"
+      },
+      {
+        "title": "Quotes App",
+        "category": "Repo of quotes with a cat",
+        "image": "Quotes.jpg",
+        "url": "https://quotes.agilanvageesan.net/"
+      },
+      {
+        "title": "Connection VS Extension App",
+        "category": "Visual Studio Extentsion to manage connection string for the solution",
+        "image": "VS_Extension.jpg",
+        "url": "https://github.com/AgilanVageesan/Server-Manager-VS-Extenstion"
+      },
+      {
+        "title": "MSSQL Server Job C# Client App",
+        "category": "SQL Bot to Manage the MS SQL Server Jobs via .Net",
+        "image": "SqlJobBot.jpg",
+        "url": "https://github.com/AgilanVageesan/ssms-db-bot"
+      },
+      {
+        "title": "Sentiment Analyzer ML",
+        "category": "Sentiment Analyzer built on dotnet ML",
+        "image": "SentimentAnalyzer.jpg",
+        "url": "https://github.com/AgilanVageesan/Sentiment-Analyzer"
+      },
+      {
+        "title": "Bibliotheque",
+        "category": "Dotnet Knowledge library",
+        "image": "Bibliotheque.jpg",
+        "url": "https://github.com/AgilanVageesan/Bibliotheque"
       }
     ]
   },
@@ -117,4 +171,3 @@
     ]
   }
 }
-
