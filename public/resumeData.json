@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Agilan Vageesan",
-    "occupation": "Software Developer at Société Générale",
+    "occupation": "Software Developer at Commonwealth Bank of Australia",
     "description": "Full Stack Software Developer by Day, Freelancer by Night.",
     "image": "Agilan.jpeg",
     "bio": "Experienced Software Engineer with a demonstrated history of working in the information technology and services industry. Skilled in .Net Framework/.Net Core Full-Stack Development, SQL Server Reporting Services (SSRS), C#, Angular, Javascript, and TeamCity. Strong engineering professional with a Bachelor of Technology - BTech focused in Electrical, Electronics, and Communications Engineering.",
@@ -9,9 +9,9 @@
     "email": "agilanvageesan@gmail.com",
     "phone": "9944014313",
     "address": {
-      "street": "C-401,Princeton Apartments,Manipal County Road,Singasandra",
+      "street": "Princeton Apartments,Singasandra",
       "city": "Bangalore",
-      "state": "Karnata",
+      "state": "Karnataka",
       "zip": "560068"
     },
     "website": "https://in.linkedin.com/in/agilan-vageesan-b6a12a1b1",
@@ -59,7 +59,13 @@
       {
         "company": "Societe Generale Global Solution Center",
         "title": "Senior Software Developer",
-        "years": "June 2018 - Present",
+        "years": "June 2018 - November 2021",
+        "description": "Full stack Development in .Net"
+      },
+      {
+        "company": "Commonwealth Bank of Australia",
+        "title": "Engineer Software",
+        "years": "November 2021 - Present",
         "description": "Full stack Development in .Net"
       }
     ],
